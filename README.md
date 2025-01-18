@@ -21,3 +21,5 @@ Watch the Time: Keep an eye on the timer. If it runs out before you catch the ol
 Enjoy the Chaos: Random phrases will appear on the screen, adding to the fun and challenge.
 Future Plans
 ZueraWare will continue to expand with more mini-games, each featuring different Brazilian memes. Stay tuned for updates and new content!
+
+Link to play the game: https://zuera-ware-game.vercel.app/
